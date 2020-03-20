@@ -15,7 +15,7 @@ jsonschema==2.6.0
 pypiwin32==219; sys_platform == 'win32' and python_version < '3.6'
 pypiwin32==220; sys_platform == 'win32' and python_version >= '3.6'
 PySocks==1.6.7
-PyYAML==3.12
+PyYAML==5.3.1
 requests==2.18.4
 six==1.10.0
 texttable==0.9.1
